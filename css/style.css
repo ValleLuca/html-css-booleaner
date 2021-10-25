@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    max-height: 20%;
+    max-width: 20%;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+header{
+    background: url(../img/pattern.png), #4fa0fe;
+    height: 150px;
+}
+
+main{
+    margin-left: 10px;
+}
+.titolo {
+    margin-top: 20px;
+
+}
