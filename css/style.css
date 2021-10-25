@@ -2,10 +2,10 @@
     max-height: 20%;
     max-width: 20%;
     margin-left: 10px;
-    margin-top: 75px;
+    margin-top: 35px;
 }
 
-header{
+header {
     background: url(../img/pattern.png), #4fa0fe;
     height: 150px;
 }
@@ -14,6 +14,55 @@ header{
     margin-top: 20px;
 }
 
-.evidenziato{
+.evidenziato {
  background-color: yellow;
+}
+
+table{
+    text-align: left;
+}
+
+table td {
+    Min-width: 250px;
+}
+
+th {
+    background-color: #20a9e5;
+}
+tbody tr:first-child {
+    background-color: #b0e5f3;
+}
+
+tfoot {
+    background-color: #b0e5f3;
+}
+
+div p {
+    color: #a3a3a3;
+}
+
+div img:last-child {
+    padding-top: 10px;
+}
+
+.container {
+    position: relative;
+}
+
+.pc {
+    position: absolute;
+    text-align: left;
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 30px;
+}
+
+.grafico {
+    position: absolute;
+    text-align: left;
+    color: white;
+    margin-top: 15px;
+    margin-left: 5px;
+    font-size: 30px;
 }
