@@ -1,14 +1,14 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+    width: 1000px;
+    margin: auto;
+    
 }
 
 .logo {
     max-height: 20%;
     max-width: 20%;
     margin-left: 10px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 header{
@@ -21,5 +21,8 @@ main{
 }
 .titolo {
     margin-top: 20px;
+}
 
+.tim{
+ display: inline-block;
 }
